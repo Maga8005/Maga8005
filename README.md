@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Maria Alejandra
-- 👀 I’m interested in becoming a frontend developer
+- 👀 I’m interested in becoming a low code or frontend developer
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on projects to develop APIs as a frontend developer and as a UX|UI designer. To add to my professional and personal experience.
 - 📫 You can contact me at maleja8005@gmail.com or on www.linkedin.com/in/malejandragaitana
